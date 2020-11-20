@@ -103,5 +103,13 @@ footer{                                        /*footer with social networks*/
     margin-left: auto;
     margin-right: auto;
     width: 100%; 
-   
+}
+
+.four-text-pagetwo{                                      
+    margin-top: 3.125em;   
+}
+
+.textpagetwo {
+	flex-wrap: wrap;
+	text-align: center;
 }
