@@ -74,3 +74,26 @@ h2{
     margin: 5%;
     height: 50%;
 }
+footer{                                        /*footer with social networks*/
+
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  color: white;
+  text-align: center;
+}
+  
+.links{
+    text-align: center;
+    margin-bottom: -1.875em;
+}
+.links li{
+    display:inline;
+}
+.links i {
+    font-size: 130%;
+    margin: 1%;
+    padding: 1%;
+    color: #BEBEBE;   
+}
