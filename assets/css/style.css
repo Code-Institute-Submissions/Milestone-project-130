@@ -66,3 +66,11 @@ h2{
     text-decoration: none;
     color:#36454F;
 }
+.textone{                                     
+    flex-wrap: wrap;
+	text-align: center;
+	padding-top: 0.938em;
+    width: 80%;
+    margin: 5%;
+    height: 50%;
+}
