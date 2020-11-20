@@ -15,3 +15,36 @@ body{
     font-size: 1em;
     line-height: 1.6;
 }
+h2{
+    font-family: 'Roboto', serif;
+    letter-spacing: 0.1875em;
+    color:#36454F;
+}
+     
+.companylogo{
+    float: left; 
+    font-size: 250%;
+    margin-left: 1.875px;                          
+                                           
+}
+.navigationbar{
+    font-size: 130%;
+    list-style-type: none;
+    letter-spacing: 0.1875em;
+    
+}
+
+.companylogo, .navigationbar{
+    line-height: 75px;
+    
+}
+
+.navigationbar li {
+    float: right;
+    margin-right: 1.875em;
+}
+
+.navigationbar a {
+    text-decoration: none;
+    color:#36454F;
+}
