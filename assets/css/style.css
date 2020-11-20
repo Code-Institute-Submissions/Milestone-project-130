@@ -147,3 +147,94 @@ footer{                                        /*footer with social networks*/
   margin-right: auto;
   justify-content: center;
 }
+@media screen and (max-height: 568px) and (max-width : 320px) and (orientation: portrait) {
+	header {
+		display: flex;
+		flex-wrap: wrap;
+		text-align: center;
+		
+	}
+	.navigationbar li {
+		float: none;
+		margin-right: 0em;
+	}
+	.photo_four_signup{                                        /*photo on login page*/
+    margin: auto;                                       
+    width: 100%;
+	}
+	.companylogo{
+		font-size: 250%;
+		margin: auto;
+		line-height: 50px;
+		text-align: center;                                           
+	}
+
+	header nav, header nav ul {
+		font-size: 100%;
+		line-height: 50px;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+	}
+    .login{                                                    /*login menu*/
+     	width: auto;
+	background-color: #36454F;
+	color:  whitesmoke;
+	margin: 0;
+	border: none;
+	border-radius: 0.250em;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+	}
+	.text-input, .Pass {
+		width: 100%;
+	}
+    .signup{                                                    /*signup menu*/
+     	width: auto;
+	background-color: #36454F;
+	color:  whitesmoke;
+	margin: 0;
+	border: none;
+	border-radius: 0.250em;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+	}
+
+	.text-input, .pass {
+		width: 100%;
+	}
+    }
+    
+    @media screen and (max-height: 568px) and (max-width : 320px) and (orientation: landscape) {
+	/* same changes but on horizontal orientation */
+	header {
+		display: flex;
+		flex-wrap: wrap;
+		text-align: center;
+		
+	}
+
+	.navigationbar li {
+		float: none;
+		margin-right: 0;
+	}
+
+	.companylogo{
+		font-size: 250%;
+		margin: auto;
+		line-height: 50px;
+		text-align: center;                                           
+	}
+
+	header nav, header nav ul {
+		font-size: 100%;
+		line-height: 50px;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
