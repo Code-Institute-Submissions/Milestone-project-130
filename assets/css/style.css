@@ -35,6 +35,20 @@ h2{
 .navigationbar a:hover {
     color:red;
 }
+
+.photo_one_home{                             
+   margin-top: 0.938em;
+    height: 12.5em;
+    width: 100%;
+}
+  
+.photo_two_home {                             
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 10px;
+}
     
 }
 
