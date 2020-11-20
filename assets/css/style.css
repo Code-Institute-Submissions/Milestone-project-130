@@ -107,6 +107,7 @@ footer{                                        /*footer with social networks*/
     margin-left: auto;
     margin-right: auto;
     width: 100%; 
+    object-fit: cover;
 }
 
 .four-text-pagetwo{                                      /*four texts on page IT services*/
@@ -172,7 +173,8 @@ footer{                                        /*footer with social networks*/
 	.companylogo{
 		font-size: 250%;
 		margin: auto;
-		line-height: 50px;
+		line-height: 50px;                                   /*adjusting size of navigation bar for mobile phone*/
+		float: none;
 		text-align: center;                                           
 	}
 
@@ -225,8 +227,7 @@ footer{                                        /*footer with social networks*/
 		
 	}
 
-	.navigationbar li {
-		float: none;
+	.navigationbar li {                                  
 		margin-right: 0;
 	}
 
