@@ -113,3 +113,8 @@ footer{                                        /*footer with social networks*/
 	flex-wrap: wrap;
 	text-align: center;
 }
+
+.photo_four_signup{                                        
+    margin-top: 0.938em;                                       
+    width: 100%;
+}
