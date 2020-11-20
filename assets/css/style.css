@@ -31,6 +31,10 @@ h2{
     font-size: 130%;
     list-style-type: none;
     letter-spacing: 0.1875em;
+}
+.navigationbar a:hover {
+    color:red;
+}
     
 }
 
