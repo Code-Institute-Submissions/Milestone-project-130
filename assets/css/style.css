@@ -97,3 +97,11 @@ footer{                                        /*footer with social networks*/
     padding: 1%;
     color: #BEBEBE;   
 }
+.photo_one_itservices {                            
+    margin-top: 0.938em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+   
+}
