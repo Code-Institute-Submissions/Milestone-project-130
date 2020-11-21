@@ -218,7 +218,8 @@ footer{                                        /*footer with social networks*/
 	.text-input, .pass {
 		width: 100%;
 	}
-    }
+}
+    
     
     @media screen and (max-height: 568px) and (max-width : 320px) and (orientation: landscape) {
 	/* same changes but on horizontal orientation */
@@ -247,4 +248,4 @@ footer{                                        /*footer with social networks*/
 		margin-left: auto;
 		margin-right: auto;
 	}
-}
+    }
