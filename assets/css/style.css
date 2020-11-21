@@ -116,12 +116,14 @@ footer{                                        /*footer with social networks*/
 
 .textpagetwo {
 	flex-wrap: wrap;
-	text-align: center;
+	text-align: justify;
+    
 }
 
 .photo_four_signup{                                        /*photo on login page*/
     margin-top: 0.938em;                                       
     width: 100%;
+    object-fit: cover;
 }
 
 .login{                                                    /*login menu*/
