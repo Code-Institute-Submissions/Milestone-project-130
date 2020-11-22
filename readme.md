@@ -26,10 +26,10 @@ Contact us page has one image, login and sign up menu.
 Wireframe skelton was build with softwere balsamiq and commited in folder wireframes:
 1. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_contact%20_us_page.PNG)
 2. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_contact_us_page_iphone5.PNG)
-3  [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_home_page.PNG)
+3. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_home_page.PNG)
 4. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_home_page_iphone5.PNG)
 5. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it%20_service_page.PNG)
-6. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it_service_page_iphone5.PNG)
+6. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it_service_page_iphone5.PNG)g
 
 
 # Surface
@@ -60,7 +60,12 @@ Final version of the project was tested with different web browsers; Chrome, Fir
   When I tried to submit without password I was getting error, 
   When is login / sign up successful link is opening (https://formdump.codeinstitute.net/)
 * Responsive design was tested with browsers
-* testing screenshot: [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/4f51a463efae616fc7f5311e5377898bc4b1cd88/screenshot)
+* testing screenshot: 
+1. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_four.PNG)
+2. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_one.PNG)
+3. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_one.PNG)
+4. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_two.PNG)
+
 
 
 * Website was tested on iphone 5
