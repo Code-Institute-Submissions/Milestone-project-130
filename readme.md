@@ -29,7 +29,7 @@ Wireframe skelton was build with softwere balsamiq and commited in folder wirefr
 3. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_home_page.PNG)
 4. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_home_page_iphone5.PNG)
 5. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it%20_service_page.PNG)
-6. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it_service_page_iphone5.PNG)g
+6. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it_service_page_iphone5.PNG)
 
 
 # Surface
@@ -65,19 +65,16 @@ Final version of the project was tested with different web browsers; Chrome, Fir
 2. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_one.PNG)
 3. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_one.PNG)
 4. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_two.PNG)
-
-
-
 * Website was tested on iphone 5
 
 # Credits
 
 * For login and signup menu was used link from Code Institute [link](https://formdump.codeinstitute.net)
 * Images are used fromm several sites:
- quantumcity.org.uk [image](https://quantumcity.org.uk/sites/default/files/styles/shallow_banner/public/2020-06/AdobeStock_216474184%20widescreen.jpeg?itok=QT_Vg3Tw)
- shutterstock.com  [image](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/09/4-3.jpg)
- squarespace-cdn.com  [image](https://images.squarespace-cdn.com/content/v1/55b5f693e4b0cb0617cd9116/1560161711248-FC7KZ7MGK50XMXLH4M0V/ke17ZwdGBToddI8pDm48kAFYWY_jiErDheOqQKhhc2YUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcB90HAmO84KJWwqdYj9fcqLG7fPSla0L0vIFpfO5SaBs0T3AKBj9ky-GVlI7BONjj/bytek.it-solutions-solar-winds.png)
- miro.medium.com  [image](https://miro.medium.com/max/1100/1*DvF7zgVXy7C369K4ALqE1w.jpeg)
+ 1. quantumcity.org.uk [image](https://quantumcity.org.uk/sites/default/files/styles/shallow_banner/public/2020-06/AdobeStock_216474184%20widescreen.jpeg?itok=QT_Vg3Tw)
+ 2. shutterstock.com  [image](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/09/4-3.jpg)
+ 3. squarespace-cdn.com  [image](https://images.squarespace-cdn.com/content/v1/55b5f693e4b0cb0617cd9116/1560161711248-FC7KZ7MGK50XMXLH4M0V/ke17ZwdGBToddI8pDm48kAFYWY_jiErDheOqQKhhc2YUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcB90HAmO84KJWwqdYj9fcqLG7fPSla0L0vIFpfO5SaBs0T3AKBj9ky-GVlI7BONjj/bytek.it-solutions-solar-winds.png)
+ 4. miro.medium.com  [image](https://miro.medium.com/max/1100/1*DvF7zgVXy7C369K4ALqE1w.jpeg)
 
  * Social network icon are use from Font Awesome sites
  * Font is imported from Google Fonts
