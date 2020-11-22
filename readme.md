@@ -66,11 +66,11 @@ Final version of the project was tested with different web browsers; Chrome, Fir
 3. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_one.PNG)
 4. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_two.PNG)
 * Website was tested on iphone 5
-* css code tested with official (jigsaw) validator, [image]()
+* css code tested with official (jigsaw) validator, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/test_images/style_sheet_validator.PNG)
 * html pages tested with official W3C validator
-1. home page test, image()
-2. contact us page test, image()
-3. it services page test, image()
+1. home page test, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/test_images/home_page_html_validator.PNG)
+2. contact us page test, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/test_images/contact_us_page_validator.PNG)
+3. it services page test, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/test_images/it_service_page_validator.PNG)
 
 # Credits
 
