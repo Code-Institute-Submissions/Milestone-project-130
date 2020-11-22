@@ -23,8 +23,14 @@ It service page is made from one image and four texts. Texts are describing serv
 Contact us page has one image, login and sign up menu.
 
 # Skeleton
-Wireframe skelton was build with softwere balsamiq and . bmpr files are stored in folder wireframes in
-[wireframes](https://github.com/mariodragun/Milestone-project-1/blob/8df802444b4c9ca779aafd0457512c135608c798/wireframes)
+Wireframe skelton was build with softwere balsamiq and commited in folder wireframes:
+1. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_contact%20_us_page.PNG)
+2. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_contact_us_page_iphone5.PNG)
+3  [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_home_page.PNG)
+4. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_home_page_iphone5.PNG)
+5. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it%20_service_page.PNG)
+6. [wireframe](https://github.com/mariodragun/Milestone-project-1/blob/master/wireframes/wireframe_it_service_page_iphone5.PNG)
+
 
 # Surface
 
