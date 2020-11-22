@@ -14,9 +14,13 @@ I want to provide for customers overview of service of MD networks. Who are they
 
 # Structure
 
-Website is made from 3 pages: Home, IT service and Contact us. Roboto font is used in grey tone on website. 
+Website is made from 3 pages: 
+1. Home, [image]()
+2. IT service, [image]()
+3. Contact us, [image]()
+Roboto font is used in grey tone on website. 
 Navigation bar has company logo and links for pages. Hover element that change is colour is applied to navigation bar 
-Footer is made from social networks icons in pale grey tone.
+Footer is made from social networks icons in pale grey tone, [image]()
 Home page has two images with text between. First image represent network connectivity and second image is showing office atmosphere.
 Text description on home page is providing basic information of the company.
 It service page is made from one image and four texts. Texts are describing services that company is providing.
