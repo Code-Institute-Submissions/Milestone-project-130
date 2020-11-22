@@ -24,7 +24,7 @@ Contact us page has one image, login and sign up menu.
 
 # Skeleton
 Wireframe skelton was build with softwere balsamiq and . bmpr files are stored in folder wireframes in
-[wireframes](https://github.com/mariodragun/Milestone-project-1/blob/4f51a463efae616fc7f5311e5377898bc4b1cd88/wireframes)
+[wireframes](https://github.com/mariodragun/Milestone-project-1/blob/8df802444b4c9ca779aafd0457512c135608c798/wireframes)
 
 # Surface
 
@@ -32,7 +32,7 @@ White smoke colour is chosen for background and grey colour scale was used for e
 
 # Deployment
 This project was developed using the Git pod edditor and  committed  to  GitHub.
-[Milestone 1](https://mariodragun.github.io/Milestone-project-1/index.html])
+[Milestone 1](https://mariodragun.github.io/Milestone-project-1/index.html)
 
 # Technologies used
 1. HTML
