@@ -60,8 +60,8 @@ Final version of the project was tested with different web browsers; Chrome, Fir
 * Hover element in navigation bar is tested  for changing colour.
 * Footer was tested that social networks links ( Linked in, Facebook, Twitter ) are opening in new page.
 * Functionality test was run on login and sign up menus. 
-  When I tried to submit without email I was getting error, so required function is working
-  When I tried to submit without password I was getting error, 
+  When I tried to submit without email I was getting error, so required function is working.
+  When I tried to submit without password I was getting error. 
   When is login / sign up successful link is opening (https://formdump.codeinstitute.net/)
 * Responsive design was tested with browsers
 * testing screenshot: 
