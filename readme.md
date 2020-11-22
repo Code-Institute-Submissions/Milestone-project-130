@@ -18,13 +18,14 @@ Website is made from 3 pages:
 1. Home, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/home_page.PNG)
 2. IT service, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/it_service_page.PNG)
 3. Contact us, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/contact_us_page.PNG)
-Roboto font is used in grey tone on website. 
-Navigation bar has company logo and links for pages. Hover element that change is colour is applied to navigation bar 
-Footer is made from social networks icons in pale grey tone, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/footer.PNG).
-Home page has two images with text between. First image represent network connectivity and second image is showing office atmosphere.
+
+* Roboto font is used in grey tone on website. 
+* Navigation bar has company logo and links for pages. Hover element that change is colour is applied to navigation bar 
+* Footer is made from social networks icons in pale grey tone, [image](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/footer.PNG).
+* Home page has two images with text between. First image represent network connectivity and second image is showing office atmosphere.
 Text description on home page is providing basic information of the company.
-It service page is made from one image and four texts. Texts are describing services that company is providing.
-Contact us page has one image, login and sign up menu.
+* It service page is made from one image and four texts. Texts are describing services that company is providing.
+* Contact us page has one image, login and sign up menu.
 
 # Skeleton
 Wireframe skelton was build with softwere balsamiq and commited in folder wireframes:
@@ -51,10 +52,10 @@ This project was developed using the Git pod edditor and  committed  to  GitHub
 4. Font Awesome
 
 # Features
-Website is make in HTML/CSS primary for desktop users but it is also has responsive design for mobile device.
+Website is made in HTML/CSS primary for desktop users but it is also has responsive design for mobile device.
 
 # Testing
-Final version of the project was tested with different web browsers; Chrome, Firefox, Edge, and also on Iphone 5 devices
+Final version of the project was tested with different web browsers; Chrome, Firefox, Edge and also on Iphone 5 device
 
 * Navigation bar on each page was tested that is functional and that  every element is opening right page. 
 * Hover element in navigation bar is tested  for changing colour.
@@ -64,7 +65,7 @@ Final version of the project was tested with different web browsers; Chrome, Fir
   When I tried to submit without password I was getting error. 
   When is login / sign up successful link is opening (https://formdump.codeinstitute.net/)
 * Responsive design was tested with browsers
-* testing screenshot: 
+* Testing screenshot: 
 1. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_four.PNG)
 2. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_one.PNG)
 3. [screenshot](https://github.com/mariodragun/Milestone-project-1/blob/master/screenshot/capture_one.PNG)
