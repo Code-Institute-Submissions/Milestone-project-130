@@ -165,8 +165,9 @@ footer{                                        /*footer with social networks*/
 		
 	}
 	.navigationbar li {
-		float: none;
+		float: right;
 		margin-right: 0em;
+		font-size: 60%
 	}
 	.photo_four_signup{                                        /*photo on login page*/
     margin: auto;                                       
